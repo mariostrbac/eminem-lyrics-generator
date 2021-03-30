@@ -1,0 +1,18 @@
+{
+    "ARTIST" : "Eminem",
+    "ARTIST_OBJECT_ALL_PATH": "../data/raw/eminem_genius_object_all_v01.pickle",
+    "ARTIST_OBJECT_SONGS_PATH": "../data/raw/eminem_genius_object_songs_v01.pickle", 
+    "EMINEM_DF_ALL_RAW_PATH": "../data/raw/eminem_df_all_raw_v01.pickle",
+    "EMINEM_DF_SONGS_RAW_PATH": "../data/raw/eminem_df_songs_raw_v01.pickle",
+    "EMINEM_DF_ALL_CLEAN_PATH": "../data/processed/eminem_df_all_clean_v01.pickle",
+    "EMINEM_DF_SONGS_CLEAN_PATH": "../data/processed/eminem_df_songs_clean_v01.pickle",
+    "LYRICS_DF_ALL_PATH": "../data/processed/lyrics_df_all_v01.pickle", 
+    "LYRICS_DF_SONGS_PATH": "../data/processed/lyrics_df_songs_v01.pickle", 
+    "GPT2_TRAIN_DATA_CLEAN_PATH": "../data/processed/eminem_lyrics.csv",
+    "CONTRACTIONS_TABLE_PATH": "../reports/contractions/most_common_contractions.txt",
+    "MODELS_DIR": "../models/",
+    "RNN_MODEL_DIR": "../models/rnn_model/",
+    "GPT2_MODEL_DIR": "../models/",
+    "RNN_GENERATOR_DIR": "../models/one_step_generator/",
+    "GENERATED_LYRICS_DIR": "../reports/generated_lyrics/"
+}
